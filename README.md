@@ -1,2 +1,2 @@
-# portfolio-gunjita
+# My projects
 My portfolio using HTML
